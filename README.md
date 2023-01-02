@@ -3,7 +3,7 @@
                      Understands and meets both client and employer needs and develops highly functional, mathematical and predictive models. 
                      Have a good knowledge in Data science, Artificial Intelligent, Machine Learning and Deep learning with data analytics and E-commerce background.
 - 🌱 Currently Learning Big Data, Map-r,Hive
-- 💞️ I’m looking to collaborate on Machine Learning,Deep Learning Engineers and Data Scientists.
+- 💞️ I’m looking to collaborate on Machine Learning,Deep Learning  and Data science topics.
 - 📫 Reach me @ (https://www.linkedin.com/in/sasi-kumar-214aa219b/)
 
  <!---
